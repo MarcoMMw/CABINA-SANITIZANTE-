@@ -1,6 +1,20 @@
+<p align = "centro">
+  <img src = "https://user-images.githubusercontent.com/93176932/139614984-893f1a2b-6cf0-4d8e-8372-324b226504ae.png" />
+</p>
 
 # CABINA SANITIZANTE 
-## *antecedentes:* 
+---
+# *OBJETIVO GENERAL:*
+>El objetivo general es crear una cabina sanitizante funcional de relativo “bajo costo”, la cual
+pueda llegar a ser aplicada al menos en la entrada de la universidad como uno de los
+métodos de reducción de riesgos ante la amenaza de la pandemia covid-19
+Dicha cabina se pretende pueda proporcionar mediante aspersores, la aplicación del líquido
+desinfectante detectando mediante sensores a la persona que pretende ingresar, al igual que
+detectar mediante sensores especiales la presencia de la palma de la mano para la
+aplicación de gel anti bacterial de forma automatizada liberando así de ese trabajo al guardia
+de seguridad.
+---
+# *ANTECEDENTES:* 
 >Desde el inicio de la pandemia del SARS-CoV-2 (COVID-19) se han venido desarrollando
 estrategias (aunque no todas con bases científicas comprobables) con el fin de reducir la
 transmisión del virus causante tales como distanciamiento físico, protección personal, lavado
@@ -24,4 +38,6 @@ confinamiento se realizó una serie de proyectos internos de los cuales derivó 
 un prototipo de aplicación de gel automatizado el cual ha provocado en el alumnado el
 interés de desarrollar este tipo de solución más a fondo implementando así una cabina de
 sanitización
+---
+
                
