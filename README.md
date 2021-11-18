@@ -38,6 +38,8 @@ confinamiento se realizó una serie de proyectos internos de los cuales derivó 
 un prototipo de aplicación de gel automatizado el cual ha provocado en el alumnado el
 interés de desarrollar este tipo de solución más a fondo implementando así una cabina de
 sanitización
----
+
+![giphy](https://media2.giphy.com/media/dVuyBgq2z5gVBkFtDc/giphy.gif?cid=ecf05e47e09ink628xbo1brb3c53s5l5u0ssxv8lohomgjmp&rid=giphy.gif&ct=g.png)
+
 
                
