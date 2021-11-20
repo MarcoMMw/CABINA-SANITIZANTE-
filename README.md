@@ -65,5 +65,8 @@ sanitización
 # JUSTIFICACIÓN
 >El propósito técnico del dispositivo es detectar personal de ingreso y guiarlo en el proceso de desinfección de una manera lógica secuencial, buscando economizar el material empleado en esta labor mediante técnicas de dispersión del material.
 ---
-[![Alt text](https://drive.google.com/drive/folders/1zjWkTU6oJ4Qs08Ie56aZYRAIY1PjRlYA)
+[![Mira el video](https://drive.google.com/file/d/1WxEyeIh8FiGWC89cCVfUq0ZlsN3E9jBh/view?usp=sharing.png)] 
+
+
+
 
