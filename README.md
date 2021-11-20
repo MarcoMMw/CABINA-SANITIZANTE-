@@ -40,6 +40,28 @@ interés de desarrollar este tipo de solución más a fondo implementando así u
 sanitización
 
 ![giphy](https://media2.giphy.com/media/dVuyBgq2z5gVBkFtDc/giphy.gif?cid=ecf05e47e09ink628xbo1brb3c53s5l5u0ssxv8lohomgjmp&rid=giphy.gif&ct=g.png)
+---
+# PLANEACIÓN _INVESTIGACIÓN_
+>@EQUIPO ADMINISTRACIÓN DE LA INFORMACIÓN📁
+>
+*Investigación de Antecedentes.
+  
+*Creación de Documentación
 
+ *Planificación de la Difusión.
+  
+---
 
-               
+>@EQUIPO DE GESTIÓN DE TECNOLOOGÍAS💻
+>
+
+*Investigación de soluciones Técnicas.
+
+*Bocetaje de planos.
+
+*Cotización de Preliminar de Componentes.
+
+---
+# JUSTIFICACIÓN
+>El propósito técnico del dispositivo es detectar personal de ingreso y guiarlo en el proceso de desinfección de una manera lógica secuencial, buscando economizar el material empleado en esta labor mediante técnicas de dispersión del material.
+
