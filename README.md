@@ -2,7 +2,7 @@
   <img src = "https://user-images.githubusercontent.com/93176932/139614984-893f1a2b-6cf0-4d8e-8372-324b226504ae.png" />
 </p>
 
-# CABINA SANITIZANTE 
+# CABINA SANITIZANTE
 ---
 # *OBJETIVO GENERAL:*
 >El objetivo general es crear una cabina sanitizante funcional de relativo “bajo costo”, la cual
